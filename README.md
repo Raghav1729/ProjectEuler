@@ -5,22 +5,22 @@ Solutions for Project Euler Problems.
 
 - Solving Project Euler Problems using C#
 - Eager to learn some old and some new math problems 
-- Currently Working on 4th Project 
+- Currently Working on 6th Project 
   - Largest palindrome product	
 
-## Solved 3 of 587
+## Solved 5 of 587
 
 ```
 1	Multiples of 3 and 5	
 2	Even Fibonacci numbers	
 3	Largest prime factor	
+4	Largest palindrome product	
+5	Smallest multiple	
 ```
 
 ## Remaining
 
 ```
-4	Largest palindrome product	
-5	Smallest multiple	
 6	Sum square difference	
 7	10001st prime	
 8	Largest product in a series	
