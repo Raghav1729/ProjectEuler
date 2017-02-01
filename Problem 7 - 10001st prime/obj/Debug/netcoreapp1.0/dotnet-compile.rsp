@@ -1,5 +1,5 @@
---temp-output:d:\!!Learning\ProjectEuler\Problem 1 - Multiples of 3 and 5\obj\Debug\netcoreapp1.0\
---out:d:\!!Learning\ProjectEuler\Problem 1 - Multiples of 3 and 5\bin\Debug\netcoreapp1.0\Problem 1 - Multiples of 3 and 5.dll
+--temp-output:D:\!!Learning\ProjectEuler\Problem 7 - 10001st prime\obj\Debug\netcoreapp1.0\
+--out:D:\!!Learning\ProjectEuler\Problem 7 - 10001st prime\bin\Debug\netcoreapp1.0\Problem 7 - 10001st prime.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -9,7 +9,7 @@
 --optimize:False
 --debug-type:portable
 --emit-entry-point:True
---output-name:Problem 1 - Multiples of 3 and 5
+--output-name:Problem 7 - 10001st prime
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -87,4 +87,4 @@
 --reference:C:\Users\v-ragmi\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\v-ragmi\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\v-ragmi\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-d:\!!Learning\ProjectEuler\Problem 1 - Multiples of 3 and 5\Program.cs
+D:\!!Learning\ProjectEuler\Problem 7 - 10001st prime\Program.cs

@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}\\Problem 1 - Multiples of 3 and 5\\bin\\Debug\\netcoreapp1.0\\Problem 1 - Multiples of 3 and 5.dll",
+            "program": "${workspaceRoot}\\Problem 7 - 10001st prime\\bin\\Debug\\netcoreapp1.0\\Problem 7 - 10001st prime.dll",
             "args": [],
             "cwd": "${workspaceRoot}",
             "externalConsole": false,

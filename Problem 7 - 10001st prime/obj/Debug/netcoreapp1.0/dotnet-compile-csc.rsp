@@ -7,8 +7,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"d:\!!Learning\ProjectEuler\Problem 1 - Multiples of 3 and 5\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"d:\!!Learning\ProjectEuler\Problem 1 - Multiples of 3 and 5\bin\Debug\netcoreapp1.0\Problem 1 - Multiples of 3 and 5.dll"
+"D:\!!Learning\ProjectEuler\Problem 7 - 10001st prime\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"D:\!!Learning\ProjectEuler\Problem 7 - 10001st prime\bin\Debug\netcoreapp1.0\Problem 7 - 10001st prime.dll"
 -r:"C:\Users\v-ragmi\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\v-ragmi\.nuget\packages\Microsoft.VisualBasic\10.0.1\ref\netstandard1.1\Microsoft.VisualBasic.dll"
 -r:"C:\Users\v-ragmi\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
@@ -82,4 +82,4 @@
 -r:"C:\Users\v-ragmi\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\v-ragmi\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\v-ragmi\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
-"d:\!!Learning\ProjectEuler\Problem 1 - Multiples of 3 and 5\Program.cs"
+"D:\!!Learning\ProjectEuler\Problem 7 - 10001st prime\Program.cs"
